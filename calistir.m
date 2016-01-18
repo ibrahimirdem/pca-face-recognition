@@ -1,8 +1,8 @@
 clear all
 close all
 clc
-datapath = 'C:\Users\erdems\Desktop\Yüz Tanıma\Databases'; 
-TestImage = 'C:\Users\erdems\Desktop\Yüz Tanıma\Test\4.jpg';
+datapath = 'Veritabanı Resimlerinin bulunduğu klasörün yolu'; 
+TestImage = 'Test resminin tam yolu';
 A = imread(TestImage);
 FaceDetector = vision.CascadeObjectDetector();
 BBOX = step(FaceDetector, A); 
