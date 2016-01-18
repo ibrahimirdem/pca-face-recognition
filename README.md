@@ -16,4 +16,4 @@ PCA Algoritması ile Matlab'da Yüz Tanıma
 
 
    [blog]: <https://google.com>
-   [drive]: <https://google.com>
+   [drive]: <https://drive.google.com/folderview?id=0ByybOgMwWd62YnpqSHJlQ0lLd1E#list>
