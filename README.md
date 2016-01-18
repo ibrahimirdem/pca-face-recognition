@@ -10,6 +10,10 @@ PCA Algoritması ile Matlab'da Yüz Tanıma
   - calistir.m dosyasında 5. satır resmin tam yolu belirtilmelidir. Örn: C:\Matlab\Test\test.jpg
 
 
+###Örnek Veritabanı ve Test Resimleri
 Daha fazla ayrıntılı bilgi için blogumda paylaşımtığım yazıya [buradan][blog]. 
-
 Projenin örnek veritabanı resimlerinin ve test resimlerinin buluduğu tam halini indirmek için [buraya][drive] tıklayın.
+
+
+   [blog]: <https://google.com>
+   [drive]: <https://google.com>
