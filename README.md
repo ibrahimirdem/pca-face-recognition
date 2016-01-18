@@ -15,5 +15,5 @@ PCA Algoritması ile Matlab'da Yüz Tanıma
   - Projenin örnek veritabanı resimlerinin ve test resimlerinin buluduğu tam halini indirmek için [buraya][drive] tıklayın.
 
 
-   [blog]: <https://google.com>
+   [blog]: <http://ibrahimirdem.blogspot.com.tr/2016/01/matlab-ile-yuz-tanma-uygulamas-2-pca.html>
    [drive]: <https://drive.google.com/folderview?id=0ByybOgMwWd62YnpqSHJlQ0lLd1E#list>
