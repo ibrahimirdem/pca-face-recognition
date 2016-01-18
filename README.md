@@ -11,8 +11,8 @@ PCA Algoritması ile Matlab'da Yüz Tanıma
 
 
 ###Örnek Veritabanı ve Test Resimleri
-Daha fazla ayrıntılı bilgi için blogumda paylaşımtığım yazıya [buradan][blog]. 
-Projenin örnek veritabanı resimlerinin ve test resimlerinin buluduğu tam halini indirmek için [buraya][drive] tıklayın.
+  - Daha fazla ayrıntılı bilgi için blogumda paylaşımtığım yazıya [buradan][blog]. 
+  - Projenin örnek veritabanı resimlerinin ve test resimlerinin buluduğu tam halini indirmek için [buraya][drive] tıklayın.
 
 
    [blog]: <https://google.com>
